@@ -10,7 +10,7 @@ source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 streamlit run app.py
 ```
-Python 3.9–3.12 recommended. Opens at http://localhost:8501
+Python 3.9–3.12 recommended. Opens at http://localhost:8502
 
 ## Real SOS alerts (optional)
 Demo Mode is ON by default – nothing is sent. To send real alerts:
